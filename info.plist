@@ -1,0 +1,28 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+    <key>contactEmailRot13</key>
+    <string>mnpx@ovtn.zc</string>
+    <key>contactName</key>
+    <string>Zachary Voase</string>
+	<key>name</key>
+	<string>Open Source Licenses</string>
+	<key>description</key>
+    <string>Snippets for several popular open-source licenses.</string>
+	<key>ordering</key>
+	<array>
+		<string>5B548324-1692-4584-8CF8-21192AD286CC</string>
+		<string>1463AAF7-B14A-42CB-9746-E9B3E89D59F3</string>
+		<string>67A03FD3-4194-4A96-9029-97E4F0029A95</string>
+		<string>7F868F99-D0F6-43D1-BC2D-39B8B8C7904B</string>
+		<string>895664F1-93F6-48EF-87DF-791E5722AB48</string>
+		<string>C5ABA277-3091-4522-A316-9DFBB774DB16</string>
+		<string>82D009CD-71EE-4E05-BAC1-7B5D0B9DDC9E</string>
+		<string>E2F479CF-83C7-4F12-A839-E0676C20B960</string>
+		<string>A105B476-8B2C-4C1A-8E98-8D11CB5AD0B6</string>
+	</array>
+	<key>uuid</key>
+	<string>E251606C-77A2-4300-96BD-5CD30C345925</string>
+</dict>
+</plist>
