@@ -2,14 +2,14 @@
 <!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
 <plist version="1.0">
 <dict>
-    <key>contactEmailRot13</key>
-    <string>mnpx@ovtn.zc</string>
-    <key>contactName</key>
-    <string>Zachary Voase</string>
+	<key>contactEmailRot13</key>
+	<string>mnpx@ovtn.zc</string>
+	<key>contactName</key>
+	<string>Zachary Voase</string>
 	<key>name</key>
 	<string>Open Source Licenses</string>
 	<key>description</key>
-    <string>Snippets for several popular open-source licenses.</string>
+	<string>Snippets for several popular open-source licenses.</string>
 	<key>ordering</key>
 	<array>
 		<string>5B548324-1692-4584-8CF8-21192AD286CC</string>
